@@ -1,1 +1,2 @@
-# Stock-Prediction-using-Machine-Learning-master
+# Stock-Prediction-using-Machine-Learning
+Stock-Prediction-using-Machine-Learning and python 
